@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 
-@import url("/Users/andre-pauldestenaves/Library/Mobile Documents/com~apple~CloudDocs/André-Paul/0_IESEG/1ère_Année/Semestre2/Introduction_to_web_development/AP_Tech/CSS/Components/container.css");
-@import url("/Users/andre-pauldestenaves/Library/Mobile Documents/com~apple~CloudDocs/André-Paul/0_IESEG/1ère_Année/Semestre2/Introduction_to_web_development/AP_Tech/CSS/Components/avatar.css");
-@import url("/Users/andre-pauldestenaves/Library/Mobile Documents/com~apple~CloudDocs/André-Paul/0_IESEG/1ère_Année/Semestre2/Introduction_to_web_development/AP_Tech/CSS/Components/button.css");
-@import url("/Users/andre-pauldestenaves/Library/Mobile Documents/com~apple~CloudDocs/André-Paul/0_IESEG/1ère_Année/Semestre2/Introduction_to_web_development/AP_Tech/CSS/Components/banner.css");
-@import url("/Users/andre-pauldestenaves/Library/Mobile Documents/com~apple~CloudDocs/André-Paul/0_IESEG/1ère_Année/Semestre2/Introduction_to_web_development/AP_Tech/CSS/Components/card.css");
+@import url("Components/container.css");
+@import url("Components/avatar.css");
+@import url("Components/button.css");
+@import url("Components/banner.css");
+@import url("Components/card.css");
 
 body {
 	font-family: 'Lora', serif;
